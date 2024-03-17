@@ -1,8 +1,7 @@
-using System;
 using DG.Tweening;
 using UnityEngine;
 
-public class SuperCube : MonoBehaviour
+public class CubeMixChanger : MonoBehaviour
 {
     [SerializeField] private Vector3 _targetPozition;
     [SerializeField] private Vector3 _rotatePozition;
@@ -14,6 +13,5 @@ public class SuperCube : MonoBehaviour
         transform.DOMove(_targetPozition, _duration).SetLoops(-1, LoopType.Yoyo).SetEase(Ease.Linear);
         transform.DORotate(_rotatePozition, _duration, RotateMode.FastBeyond360).SetLoops(-1, LoopType.Restart).SetEase(Ease.Linear);
         transform.DOScale(_scale, _duration).SetLoops(-1, LoopType.Yoyo).SetEase(Ease.Linear);
-        
     }
 }

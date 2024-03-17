@@ -20,11 +20,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateTo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScaleTo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeText.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SuperCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotationCube.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scaler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TextChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeMixChanger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -33,8 +33,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/RotateTo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScaleTo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SuperCube.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ChangeText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotationCube.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scaler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SuperCube.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeMixChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TextChanger.cs" />
       </list>
     </option>
   </component>
@@ -79,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710549218813</updated>
       <workItem from="1710549244001" duration="5247000" />
+      <workItem from="1710637749897" duration="353000" />
     </task>
     <servers />
   </component>
@@ -97,6 +104,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
